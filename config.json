@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configppdate",
+        "uuid": 6257895,
+        "checksum": "gh7bvf"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
